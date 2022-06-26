@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/activity_albun_burguesia.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/activity_albun_exagerado.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/activity_albun_ideologia.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/activity_albun_soc_forassois.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/activity_albun_tempo_nao_para.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/activity_albunss.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/activity_biografia_cazuza.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/albuns.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/biografia.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/burguesia.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/exagerado.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/ideologia.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/otemponaopara.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/soseforassois.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Ricar/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/activity_albun_burguesia.xml" value="0.24742269014270782" />
+        <entry key="..\:/Users/Ricar/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/activity_albun_exagerado.xml" value="0.14356884057971014" />
+        <entry key="..\:/Users/Ricar/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/activity_albun_ideologia.xml" value="0.14356884057971014" />
+        <entry key="..\:/Users/Ricar/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/activity_albun_soc_forassois.xml" value="0.12635869565217392" />
+        <entry key="..\:/Users/Ricar/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/activity_albun_tempo_nao_para.xml" value="0.14356884057971014" />
+        <entry key="..\:/Users/Ricar/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/activity_albunss.xml" value="0.24742269014270782" />
+        <entry key="..\:/Users/Ricar/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/activity_biografia_cazuza.xml" value="0.14628623188405798" />
+        <entry key="..\:/Users/Ricar/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/activity_main.xml" value="0.24742269014270782" />
+        <entry key="..\:/Users/Ricar/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/activity_main2.xml" value="0.14356884057971014" />
+        <entry key="..\:/Users/Ricar/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/activity_somente_list_view.xml" value="0.24742269014270782" />
+        <entry key="..\:/Users/Ricar/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/albunss2.xml" value="0.1390625" />
+        <entry key="..\:/Users/Ricar/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/content_main.xml" value="0.14356884057971014" />
+        <entry key="..\:/Users/Ricar/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/content_somente_list_view.xml" value="0.14356884057971014" />
+        <entry key="..\:/Users/Ricar/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/fragment_first.xml" value="0.14356884057971014" />
+        <entry key="..\:/Users/Ricar/AndroidStudioProjects/AtividadeArtista/app/src/main/res/layout/fragment_second.xml" value="0.14356884057971014" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
